@@ -6,7 +6,7 @@
 
 ## Giới thiệu
 * Tên môn học: MÁY HỌC - MACHINE LEARNING
-* Mã lớp: CS114.L22
+* Mã lớp: CS114.L22 - CS114.L22.KHCL
 * Năm học: HK2 (2020-2021)
 
 ### Giảng viên
@@ -17,6 +17,6 @@
 
 | STT | Họ tên | MSSV | Github | Facebook |
 | :---: | --- | --- | --- | --- |
-| 1 | Nguyễn Ngọc Tưởng | 19522440 |  |  |
+| 1 | Nguyễn Ngọc Tưởng | 19522440 |[nguyenngoctruong2k1](https://github.com/nguyenngoctruong2k1) |https://www.facebook.com/nguyenngoctruong2k1  |
 | 2 | Kiều Quang Việt | 18521640 |  |  |
 | 3 | Nguyễn Văn Minh | 17520757 | [NguyenMinh2804](https://github.com/NguyenMinh2804) | https://www.facebook.com/ngaosuong.nguyen/ |
