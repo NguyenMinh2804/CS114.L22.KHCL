@@ -18,5 +18,5 @@
 | STT | Họ tên | MSSV | Github | Facebook |
 | :---: | --- | --- | --- | --- |
 | 1 | Nguyễn Ngọc Tưởng | 19522440 |[nguyenngoctruong2k1](https://github.com/nguyenngoctruong2k1) |https://www.facebook.com/nguyenngoctruong2k1  |
-| 2 | Kiều Quang Việt | 18521640 |  |  |
+| 2 | Kiều Quang Việt | 18521640 |[kqviet010](https://github.com/kqviet010) |  |
 | 3 | Nguyễn Văn Minh | 17520757 | [NguyenMinh2804](https://github.com/NguyenMinh2804) | https://www.facebook.com/ngaosuong.nguyen/ |
