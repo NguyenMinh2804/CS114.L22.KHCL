@@ -6,7 +6,7 @@
 
 ## Giới thiệu
 * Tên môn học: MÁY HỌC - MACHINE LEARNING
-* Mã lớp: CS114.L22 - CS114.L22.KHCL
+* Mã lớp: CS114.L22.KHCL
 * Năm học: HK2 (2020-2021)
 
 ### Giảng viên
